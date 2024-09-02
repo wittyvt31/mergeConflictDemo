@@ -1,0 +1,2 @@
+# mergeConflictDemo
+Some Demo
