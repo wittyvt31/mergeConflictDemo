@@ -1,2 +1,1 @@
-# mergeConflictDemo
-Some Demo
+This is the README file.
